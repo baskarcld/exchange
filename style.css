@@ -373,18 +373,18 @@ video {
 }
 .css-1wl22v7 {
   display: block;
-  top: -4%;
+  top: 0%;
 }
 .css-111bnrr {
   display: block;
   top: -9%;
 }
 .css-x61b8m {
-  display: block;
+  display: none;
   position: absolute;
   z-index: -1;
   top: -5%;
-  left: -10%;
+  /* left: -10%; */
   width: 100%;
 }
 .css-n2svew {
@@ -396,10 +396,9 @@ video {
   width: 100%;
 }
 .css-1wl22v7 {
-  display: none;
   position: absolute;
   z-index: -1;
-  top: -4%;
+  top: 0%;
   right: 0px;
   width: 100%;
 }
@@ -409,6 +408,89 @@ video {
   z-index: -1;
   top: -9%;
   width: 100%;
+}
+.css-1kogft7 {
+  margin-top: 180px;
+  padding-bottom: 150px;
+}
+.css-6ishpp {
+  width: 221px;
+  height: 221px;
+  background: rgb(72, 96, 103);
+  filter: blur(200px);
+  position: absolute;
+  top: 0px;
+  left: -96px;
+}
+.css-1x1v05p {
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+.css-1cmq4yq {
+  background-image: url(images/landing-on-chain-trading-1.svg);
+  padding-top: 150px;
+  padding-bottom: 145px;
+  width: 100%;
+}
+.css-1cmq4yq {
+  display: flex;
+  flex-direction: column;
+  -webkit-box-align: center;
+  align-items: center;
+  width: 100%;
+  z-index: 1;
+  background-repeat: no-repeat;
+  background-size: cover;
+  top: 20px;
+  padding-top: 54px;
+  padding-bottom: 79px;
+  position: relative;
+}
+.css-1dh58gp,
+.css-lky6is,
+.css-191ef0o {
+  display: block;
+}
+
+.curveBg {
+  display: flex;
+  flex-direction: column;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  width: 100%;
+  z-index: 9;
+  position: relative;
+  background: rgb(23, 27, 37);
+  margin: 100px 0 0 0;
+}
+.css-191ef0o {
+  width: 33px;
+  height: 33px;
+  display: none;
+  border-radius: 50%;
+  border: 6px solid rgb(167, 230, 210);
+  position: absolute;
+  right: 9%;
+  top: 80%;
+}
+.css-1rzi3ol {
+  font-size: 16px;
+  margin-inline: 26px;
+  margin-top: 24px;
+}
+.css-1rzi3ol {
+  font-weight: 400;
+  color: rgb(113, 128, 150);
+  font-size: 14px;
+  text-align: center;
+  margin-inline: 26px;
+  margin-top: 40px;
+  max-width: 600px;
 }
 /********************************************************************************/
 @media (min-width: 576px) {
