@@ -745,11 +745,8 @@ video {
   padding-left: 40px;
   font-size: 42px;
   line-height: 46px;
-}
-.css-ii1cf0 {
   display: flex;
-  border-left-width: 6px;
-  border-left-color: #1ac486;
+  border-left: #1ac486 6px solid;
   font-weight: 700;
   word-break: break-word;
 }
