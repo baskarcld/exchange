@@ -682,8 +682,31 @@ video {
   margin-top: 40px;
   margin-inline: auto;
   margin-bottom: 20px;
+  position: relative;
 }
-
+.border-gradient:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: 24px;
+  padding: 3px 3px 0;
+  background: linear-gradient(180deg, #1ac486, #1d232e);
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: destination-out;
+  mask-composite: exclude;
+}
+.css-gilxfu {
+  display: flex;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  justify-content: center;
+  width: 100%;
+  position: relative;
+  overflow-x: hidden;
+}
 .css-lo3pan {
   flex-direction: row;
   height: 330px;
@@ -713,23 +736,10 @@ video {
   justify-content: center;
   width: 100%;
   z-index: 9;
-  position: relative;
+  position: relative !important;
   background: rgb(23, 27, 37);
 }
-.border-gradient:before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  border-radius: 24px;
-  padding: 3px 3px 0;
-  background: linear-gradient(180deg, #1ac486, #1d232e);
-  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
-  -webkit-mask-composite: destination-out;
-  mask-composite: exclude;
-}
+
 .css-ii1cf0 {
   width: 50%;
   padding-left: 40px;
