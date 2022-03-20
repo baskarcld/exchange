@@ -1,0 +1,24 @@
+import { assign, createMachine, Sender } from "xstate";
+
+export interface {{properCase name}}MachineContext {};
+
+export type {{properCase name}}MachineEvent =
+  | {
+      type: "TYPE";
+    };
+
+const {{camelCase name}}Machine = createMachine<
+  {{properCase name}}MachineContext,
+  {{properCase name}}MachineEvent
+>(
+  {
+    id: "{{camelCase name}}",
+    initial: "idle",
+    states: {
+      idle: {},
+    },
+  },
+  {},
+);
+
+export default {{camelCase name}}Machine;
