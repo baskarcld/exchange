@@ -167,7 +167,7 @@ video {
 .byTheCommu {
   font-size: 20px;
   font-weight: 500;
-  color: #1ac486;
+  color: #cd59c2;
   letter-spacing: 4px;
 }
 .centralisedExc {
@@ -238,7 +238,7 @@ video {
   padding-inline-start: 1rem;
   padding-inline-end: 1rem;
   background: #00000000;
-  color: #1ac486;
+  color: #cd59c2;
   border: 2px solid;
 }
 
@@ -265,7 +265,7 @@ video {
   font-size: 1rem;
   padding-inline-start: 1rem;
   padding-inline-end: 1rem;
-  background: #1ac486;
+  background: #cd59c2;
   color: #ffffff;
   cursor: pointer;
   margin-top: 20px;
@@ -305,7 +305,7 @@ video {
   bottom: 0;
   border-radius: 24px;
   padding: 3px 3px 0;
-  background: linear-gradient(180deg, #1ac486, #1d232e);
+  background: linear-gradient(180deg, #cd59c2, #1d232e);
   -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
   -webkit-mask-composite: destination-out;
   mask-composite: exclude;
@@ -336,7 +336,7 @@ video {
 }
 .css-12ps3fs {
   font-size: 20px;
-  color: #1ac486;
+  color: #cd59c2;
   font-weight: 400;
 }
 .css-ut3ev8 {
@@ -515,7 +515,7 @@ video {
 }
 .css-rbt7fo {
   font-weight: 500;
-  color: #1ac486;
+  color: #cd59c2;
   font-size: 16px;
   margin-top: 9px;
 }
@@ -545,7 +545,7 @@ video {
   font-size: 16px;
   padding-inline-start: 1rem;
   padding-inline-end: 1rem;
-  background: #1ac486;
+  background: #cd59c2;
   color: #fff;
   margin-top: 24px;
   border: 0px;
@@ -571,12 +571,12 @@ video {
 }
 .css-q4qa8f {
   display: flex;
-  background: #1ac486;
+  background: #cd59c2;
 }
 .divider-style {
   height: 3px;
   width: 100%;
-  box-shadow: 0 0 28px 3px #1ac486;
+  box-shadow: 0 0 28px 3px #cd59c2;
 }
 .css-sz0ygj {
   text-align: center;
@@ -668,7 +668,7 @@ video {
   font-size: 14px;
   padding-inline-start: 1rem;
   padding-inline-end: 1rem;
-  background: #1ac486;
+  background: #cd59c2;
   margin-bottom: 60px;
   color: #fff;
   margin-top: 10px;
@@ -693,7 +693,7 @@ video {
   bottom: 0;
   border-radius: 24px;
   padding: 3px 3px 0;
-  background: linear-gradient(180deg, #1ac486, #1d232e);
+  background: linear-gradient(180deg, #cd59c2, #1d232e);
   -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
   -webkit-mask-composite: destination-out;
   mask-composite: exclude;
@@ -746,7 +746,7 @@ video {
   font-size: 42px;
   line-height: 46px;
   display: flex;
-  border-left: #1ac486 6px solid;
+  border-left: #cd59c2 6px solid;
   font-weight: 700;
   word-break: break-word;
 }
@@ -791,7 +791,7 @@ video {
   margin-inline: 5px;
   cursor: pointer;
   border-radius: 50%;
-  background-color: #1ac486;
+  background-color: #cd59c2;
   z-index: 9;
 }
 .css-1e21c8u {
@@ -847,9 +847,9 @@ video {
     rgba(45, 55, 72, 0.55)
   );
   border-radius: 24px;
-  border: 3px solid #1ac486;
+  border: 3px solid #cd59c2;
   position: relative;
-  box-shadow: 0 0 10px #1ac486;
+  box-shadow: 0 0 10px #cd59c2;
   animation: animateRightToLeft 1.5s;
   -webkit-animation: animateRightToLeft 1.5s;
   cursor: pointer;
@@ -878,7 +878,7 @@ video {
   outline-offset: 2px;
   margin-top: 12px;
   font-size: 16px;
-  color: #1ac486;
+  color: #cd59c2;
   cursor: pointer;
 }
 .css-u15w9w {
@@ -905,7 +905,7 @@ video {
   outline-offset: 2px;
   margin-top: 12px;
   font-size: 16px;
-  color: #1ac486;
+  color: #cd59c2;
   cursor: pointer;
 }
 
@@ -974,7 +974,7 @@ video {
 }
 .border-gradient-referral {
   position: relative;
-  box-shadow: 0 -5px 10px -5px #1ac486;
+  box-shadow: 0 -5px 10px -5px #cd59c2;
 }
 .border-gradient-referral:before {
   content: '';
@@ -985,7 +985,7 @@ video {
   bottom: 0;
   border-radius: 24px;
   padding: 3px 3px 0;
-  background: linear-gradient(180deg, #1ac486, rgba(7, 126, 83, 0));
+  background: linear-gradient(180deg, #cd59c2, rgba(7, 126, 83, 0));
   -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
   -webkit-mask-composite: destination-out;
   mask-composite: exclude;
@@ -1141,7 +1141,7 @@ video {
   position: absolute;
   bottom: -20px;
   height: 56px;
-  background: #1ac486;
+  background: #cd59c2;
   font-weight: 500;
   font-size: 16px;
   cursor: pointer;
@@ -1156,7 +1156,7 @@ video {
   -webkit-box-pack: justify;
   justify-content: space-between;
   width: 100%;
-  background: rgb(68, 81, 165);
+  background: #49005b;
   position: relative;
   z-index: 9;
 }
@@ -1208,7 +1208,7 @@ video {
   font-size: 16px;
   font-weight: 500;
   color: #fff;
-  background: #1ac486;
+  background: #cd59c2;
   padding-top: 10px;
   padding-bottom: 10px;
   cursor: pointer;
@@ -1331,7 +1331,7 @@ source {
   font-size: 1rem;
   padding-inline-start: 1rem;
   padding-inline-end: 1rem;
-  background: #1ac486;
+  background: #cd59c2;
   margin-inline: auto;
   padding-top: 32px;
   padding-bottom: 32px;
