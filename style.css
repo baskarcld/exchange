@@ -1427,13 +1427,18 @@ source {
     margin-top: 150px;
   }
   .css-ii1cf0,
-  .css-1e0o2wd {
+  .css-1e0o2wd,
+  .css-xkcsjf,
+  .css-1e1vsd9 {
     width: 100% !important;
   }
   .css-lo3pan {
     padding-top: 50px !important;
     padding-bottom: 50px !important;
     display: initial !important;
+  }
+  .css-1e1vsd9 {
+    padding: 0;
   }
 }
 
