@@ -748,7 +748,7 @@ video {
   display: flex;
   border-left: #cd59c2 6px solid;
   font-weight: 700;
-  word-break: break-word;
+  /* word-break: break-word; */
 }
 .css-1e0o2wd {
   margin-top: 0px px;
@@ -1404,9 +1404,37 @@ source {
   position: absolute;
   bottom: -1px;
 }
+.chain_align {
+  text-align: center;
+}
+.row {
+  --bs-gutter-x: 0rem !important;
+}
 
 /********************************************************************************/
-@media (min-width: 576px) {
+@media (max-width: 576px) {
+  .btm_alignTotal {
+    margin-bottom: 250px !important;
+  }
+  .instAlign {
+    padding-top: 25px;
+    z-index: 99;
+  }
+  .css-sz0ygj {
+    margin-top: 0 !important;
+  }
+  .stackAlign {
+    margin-top: 150px;
+  }
+  .css-ii1cf0,
+  .css-1e0o2wd {
+    width: 100% !important;
+  }
+  .css-lo3pan {
+    padding-top: 50px !important;
+    padding-bottom: 50px !important;
+    display: initial !important;
+  }
 }
 
 @media (min-width: 768px) {
