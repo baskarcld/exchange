@@ -1430,9 +1430,13 @@ source {
   .css-1e0o2wd,
   .css-xkcsjf,
   .css-1e1vsd9,
-  .css-1smhf6x {
+  .css-1smhf6x,
+  .css-1wrpzpl,
+  .css-fjn4fn,
+  .css-1fdq3u3 {
     width: 100% !important;
   }
+
   .css-lo3pan {
     padding-top: 50px !important;
     padding-bottom: 50px !important;
@@ -1440,6 +1444,9 @@ source {
   }
   .css-1e1vsd9 {
     padding: 0;
+  }
+  .css-1wrpzpl {
+    margin-top: 50px;
   }
 }
 
