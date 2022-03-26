@@ -340,7 +340,7 @@ video {
   font-weight: 400;
 }
 .css-ut3ev8 {
-  font-size: 40px;
+  font-size: 25px;
   font-weight: 700;
   color: #fff;
 }
@@ -522,7 +522,7 @@ video {
 .css-ppca6b {
   border-radius: 16px;
   height: 56px;
-  width: 380px;
+  width: 100%;
 
   display: inline-flex;
   appearance: none;
@@ -1145,7 +1145,7 @@ video {
   font-weight: 500;
   font-size: 16px;
   cursor: pointer;
-  width: 411px;
+  width: 100%;
   border-radius: 16px;
   color: #fff;
 }
@@ -1413,6 +1413,25 @@ source {
 
 /********************************************************************************/
 @media (max-width: 576px) {
+  .centralisedExc {
+    font-size: 40px !important;
+    display: flex;
+    font-weight: 700;
+    font-size: 24px;
+    color: #fff;
+  }
+  .css-1cb7prk {
+    margin-bottom: 60px;
+    text-align: center;
+  }
+  .css-ii1cf0 {
+    padding-left: 10px;
+    font-size: 32px;
+    line-height: 46px;
+    display: flex;
+    border-left: #cd59c2 6px solid;
+    font-weight: 700;
+  }
   .btm_alignTotal {
     margin-bottom: 250px !important;
   }
