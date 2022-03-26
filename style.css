@@ -589,12 +589,14 @@ video {
 .css-1cb7prk {
   margin-bottom: 20px;
   text-align: center;
+  z-index: 999;
 }
 .css-a4et35 {
   width: 100%;
   margin-inline: auto;
   text-align: center;
   margin-bottom: 20px;
+  z-index: 999;
 }
 .css-1fdq3u3 {
   cursor: pointer;
@@ -624,6 +626,7 @@ video {
   font-size: 16px;
   font-weight: 400;
   color: #a0aec0;
+  z-index: 999;
 }
 .css-1uffe4o {
   position: relative;
@@ -1410,6 +1413,9 @@ source {
 .row {
   --bs-gutter-x: 0rem !important;
 }
+.css-13i5pkh {
+  margin-top: 100px;
+}
 
 /********************************************************************************/
 @media (max-width: 576px) {
@@ -1423,6 +1429,7 @@ source {
   .css-1cb7prk {
     margin-bottom: 60px;
     text-align: center;
+    z-index: 999;
   }
   .css-ii1cf0 {
     padding-left: 10px;
@@ -1437,7 +1444,7 @@ source {
   }
   .instAlign {
     padding-top: 25px;
-    z-index: 99;
+    z-index: 999;
   }
   .css-sz0ygj {
     margin-top: 0 !important;
