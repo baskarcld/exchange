@@ -30,7 +30,7 @@ body {
 .dropdown-item,
 .dropdown-item span {
   width: 260px;
-  padding: 5px 0 5px 35px;
+  padding: 5px 0 5px 25px;
 }
 
 .rightSide,
@@ -49,7 +49,7 @@ body {
 }
 .dropdown-menu a span.maintxt,
 .dropdown-menu a:hover span.maintxt {
-  font-size: 20px;
+  font-size: 15px;
   color: #fff !important;
 }
 
@@ -522,7 +522,7 @@ video {
 .css-ppca6b {
   border-radius: 16px;
   height: 56px;
-  width: 100%;
+  width: auto;
 
   display: inline-flex;
   appearance: none;
@@ -604,9 +604,10 @@ video {
   outline: transparent solid 2px;
   outline-offset: 2px;
   color: inherit;
-  width: 20%;
+  width: auto;
   margin-inline: auto;
 }
+
 .css-1g4yje1 {
   display: flex;
   flex-direction: column;
@@ -1148,7 +1149,7 @@ video {
   font-weight: 500;
   font-size: 16px;
   cursor: pointer;
-  width: 100%;
+  width: auto;
   border-radius: 16px;
   color: #fff;
 }
@@ -1416,9 +1417,21 @@ source {
 .css-13i5pkh {
   margin-top: 100px;
 }
+a {
+  text-decoration: none !important;
+}
+.css-ldo4d5 a {
+  padding: 0 20px 0 20px;
+}
 
 /********************************************************************************/
 @media (max-width: 576px) {
+  .css-ppca6b,
+  .css-r03kvx {
+    border-radius: 16px;
+    height: 56px;
+    width: 100%;
+  }
   .centralisedExc {
     font-size: 40px !important;
     display: flex;
