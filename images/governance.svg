@@ -1,5 +1,7 @@
-<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M4 28.0007H28M4 13.334H28M5.33333 13.334H26.6667V28.0007H5.33333V13.334Z" stroke="#445B74" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M10.6665 18.666V22.666M15.9998 18.666V22.666M21.3332 18.666V22.666" stroke="#1AC486" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M16 4L4 9.33333H28L16 4Z" stroke="#445B74" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26.001" viewBox="0 0 26 26.001">
+  <g id="governance" transform="translate(-3 -3)">
+    <path id="Path_2254" data-name="Path 2254" d="M4,28H28M4,13.334H28m-22.667,0H26.667V28H5.333Z" fill="none" stroke="#445b74" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Path_2255" data-name="Path 2255" d="M10.667,18.666v4m5.333-4v4m5.333-4v4" fill="none" stroke="#d05bc4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Path_2256" data-name="Path 2256" d="M16,4,4,9.333H28Z" fill="none" stroke="#445b74" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
 </svg>

@@ -1,4 +1,6 @@
-<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M16.6585 12.8125H21.3332M21.3332 12.8125V17.4871M21.3332 12.8125L13.8537 20.2919L10.114 16.5522L4.6665 22" stroke="#27DC8A" stroke-width="1.88784" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="4.6665" y="4.66602" width="22.6667" height="22.6667" rx="4" stroke="#445B74" stroke-width="2"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="25.001" height="24.667" viewBox="0 0 25.001 24.667">
+  <g id="future" transform="translate(-3.332 -3.666)">
+    <path id="Path_2253" data-name="Path 2253" d="M16.659,12.813h4.675m0,0v4.675m0-4.675-7.48,7.479-3.74-3.74L4.667,22" fill="rgba(255,0,0,0)" stroke="#d05bc4" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.888"/>
+    <rect id="Rectangle_15" data-name="Rectangle 15" width="22.667" height="22.667" rx="4" transform="translate(4.667 4.666)" fill="none" stroke="#445b74" stroke-width="2"/>
+  </g>
 </svg>
